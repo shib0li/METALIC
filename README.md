@@ -2,6 +2,8 @@
 
 by [Shibo Li*](https://imshibo.com), Michael Penwarden*, Yiming Xu, Conor Tillinghast, Akil Narayan, [Mike Kirby](https://www.cs.utah.edu/~kirby/) and [Shandian Zhe](https://www.cs.utah.edu/~zhe/)
 
+*Published in The 40th International Conference on Machine Learning* (<span style="color:red">ICML 2023</span>)
+
 <p align="center">
     <br>
     <img src="images/1582-Thumb.png" width="600" />
